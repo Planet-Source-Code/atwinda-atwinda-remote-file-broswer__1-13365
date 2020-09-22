@@ -1,0 +1,11 @@
+frmMain = 41, 43, 648, 491, C, 4, 6, 424, 344, C
+modCommand = 32, 47, 732, 538, C
+modProcess = 37, 29, 772, 477, C
+modPopUplab = 127, 185, 641, 609, C
+frmOptions = 319, 13, 879, 395, C, 424, 10, 867, 470, C
+frmAddUser = 39, 16, 630, 464, C, 9, 345, 400, 620, C
+modUserPass = 102, 139, 623, 587, C
+frmDeluser = 197, 192, 663, 507, C, 261, 442, 663, 638, C
+frmChangePW = 17, 214, 626, 662, C, 88, 384, 478, 635, C
+modINI = 51, 92, 786, 540, C
+modListbox = 164, 105, 899, 553, C
